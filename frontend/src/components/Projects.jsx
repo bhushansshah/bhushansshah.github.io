@@ -9,8 +9,8 @@ export default function Projects() {
       description: 'In this Generative AI-driven project, developed in collaboration with IBM, we built an application that provides health scores for food products by analyzing ingredient and nutrient content. The system uses embeddings and a Retrieval-Augmented Generation (RAG) framework to enhance its reasoning capabilities. Users can upload product label images, from which OCR and Vision models extract ingredient and nutrient details for scoring.We also conducted a comparative analysis of multiple LLMs—GPT-4o, Mistral Large 2, Gemini Flash 2, and LLaMA 3.1 405B—evaluating their performance across three context levels: (1) without additional context, (2) with added ingredient context, and (3) with both ingredient and nutrient context.'
     },
     {
-      title: 'Mind Mate',
-      description: 'MindMate is an AI-powered assistant that uses LLMs to prioritize tasks and classify emails based on urgency and importance. Integrated with Gmail, it auto-labels emails based on user-defined categories, identifies unnecessary subscription emails with unsubscribe options, and provides a daily summary of important messages. MindMate helps reduce inbox clutter and streamline task management, keeping users organized and focused.'
+      title: 'Smart Inboxer',
+      description: 'Smart Inboxer is an AI-powered assistant that uses LLMs to prioritize tasks and classify emails based on urgency and importance. Integrated with Gmail, it auto-labels emails based on user-defined categories, identifies unnecessary subscription emails with unsubscribe options, and provides a daily summary of important messages. Smart Inboxer helps reduce inbox clutter and streamline task management, keeping users organized and focused.'
     },
     {
       title: 'Optimizing Insertion Operator in Dynamic Ridesharing',
